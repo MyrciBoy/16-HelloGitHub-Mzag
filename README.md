@@ -1,1 +1,8 @@
 # 16-HelloGitHub-Mzag
+
+## Projektbeschreibung:
+Schere, Stein, Papier Game in Unity
+
+## DevPlattform:
+Unity 2020.3.18f1, VS 2019, Win 10
+
